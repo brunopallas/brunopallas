@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunopallas
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently studying to be a computer engenieer 
+- 🌱 I’m currently studying to be a Software Engenieer 
 - 💞️ I’m looking to collaborate on any kind of ambicious project 
 - 📫 How to reach me brunopallasnin@gmail.com
 
